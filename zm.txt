@@ -6,7 +6,7 @@
   "enabledCookieJar": false,
   "loadWithBaseUrl": true,
   "singleUrl": true,
-  "sourceIcon": "http://www.xn--2os.eu.org/legado_source/%E7%9F%A5%E5%91%BD.png",
+  "sourceIcon": "https://legado.git.llc/%E7%9F%A5%E5%91%BD.png",
   "sourceName": "知命",
   "sourceUrl": "https://legado.git.llc/"
 }

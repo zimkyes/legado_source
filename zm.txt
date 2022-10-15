@@ -1,3 +1,4 @@
+[
 {
   "articleStyle": 0,
   "customOrder": 0,
@@ -10,3 +11,4 @@
   "sourceName": "知命",
   "sourceUrl": "https://legado.git.llc/"
 }
+]
